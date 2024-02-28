@@ -1,0 +1,42 @@
+14:39:31.965 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+14:39:37.397 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+14:39:38.316 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+14:39:49.511 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+14:40:17.418 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+14:40:22.194 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+14:40:52.943 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
+15:58:05.963 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+15:58:39.394 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+15:58:39.825 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+15:58:50.238 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+15:59:46.955 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+15:59:49.714 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+16:00:13.189 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
+16:45:26.548 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+16:45:30.397 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+16:45:31.093 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+16:45:42.100 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+16:46:09.952 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+16:46:14.199 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+16:46:44.925 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
+17:00:44.371 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+17:00:47.806 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+17:00:48.122 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+17:00:53.872 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+17:01:26.047 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+17:01:29.006 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+17:01:59.699 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
+17:05:28.930 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+17:05:32.949 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+17:05:33.366 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+17:05:42.152 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+17:06:12.697 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+17:06:15.176 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+17:06:56.774 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
+17:11:47.959 [main] INFO  TestCases.navigate_to_upcoming_Bikes - hover over new bikes is done
+17:11:50.399 [main] INFO  TestCases.navigate_to_upcoming_Bikes - honda as a manfu is selecteed
+17:11:50.956 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all new bikes are displayed
+17:11:57.047 [main] INFO  TestCases.navigate_to_upcoming_Bikes - all bikes under 4 lakh are shown
+17:12:22.569 [main] INFO  TestCases.find_used_Cars - hover over used car is done
+17:12:25.430 [main] INFO  TestCases.find_used_Cars - list of popular cars is displayed
+17:12:53.431 [main] INFO  TestCases.loginerror - sign through google failed because id is wrong
